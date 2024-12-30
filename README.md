@@ -73,7 +73,7 @@ RouteClouds is a premier cloud solutions and training provider specializing in c
 
 ## 📫 Connect With Us
 
-- 📧 Email: shakeeb.k@routeclouds.com
+- 📧 Email: routesclouds@gmail.com
 - 🌐 Website: www.routeclouds.com
 - 📍 Location: Lucknow, UP, India
 - 📞 Phone: +91-7007846405
